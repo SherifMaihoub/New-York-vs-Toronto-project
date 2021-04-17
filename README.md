@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# New York vs Toronto project
